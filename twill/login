@@ -1,0 +1,6 @@
+# User registration is not tested
+
+go http://www.molecularlab.it/login/index.asp?url=/forum/policy.asp
+fv form1 Name giotest
+fv form1 Password cjkljd88af
+submit
