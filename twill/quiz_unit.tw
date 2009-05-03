@@ -1,0 +1,26 @@
+# The links to the various quiz in the Quiz page point to the rigth position
+
+go http://www.molecularlab.it/quiz/
+follow Facile
+title "Quiz Facile"
+back
+
+follow "Biologia Molecolare"
+title "Quiz Biologia Molecolare"
+back
+
+follow Biochimica
+title "Quiz Biochimica"
+back
+
+follow Chimica
+title "Quiz Chimica"
+back
+
+follow Genetica
+title "Quiz Genetica"
+back
+
+follow "Crea quiz"
+title "Crea nuovo quiz"
+back
