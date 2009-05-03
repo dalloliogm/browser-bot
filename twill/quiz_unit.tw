@@ -1,4 +1,4 @@
-# The links to the various quiz in the Quiz page point to the rigth position
+# The links to the various quiz in the Quiz page point to the right position
 
 go http://www.molecularlab.it/quiz/
 follow Facile
